@@ -1,9 +1,7 @@
 <p align="center">
-  # 🚀 Olá, sou Gaspar Dias!
-  ### ✨ Desenvolvedor Frontend | Explorador de Tecnologias ✨
+  # 🚀 Olá! Sou Gaspar Dias
+  ### ✨ Desenvolvedor Frontend | Fullstack em Evolução | Entusiasta de IA ✨
 </p>
-
-### 🚀 Programador Júnior
 
 <p align="center">
   <a href="https://github.com/gaspardiasdev"><img src="https://img.shields.io/badge/GitHub-@gaspardiasdev-181717?logo=github&style=for-the-badge" alt="GitHub Badge"/></a>
@@ -15,11 +13,11 @@
 
 ## 🌍 Sobre Mim
 
-* 🔭 Sou um **Técnico de Gestão de Sistemas Informáticos** e **Programador Júnior**, com foco em desenvolvimento de interfaces UI e operações CRUD, baseado em **Luanda, Angola**.
-* 🌱 Competente em **JavaScript** e **TypeScript**, tenho conhecimentos em **C**, **C#**, **PHP** e **Node.js**.
-* 💼 Apaixonado por construir **soluções web modernas** e **código limpo**, procuro aplicar e expandir minhas competências técnicas num ambiente ágil.
-* 🎯 Meu objetivo é evoluir para **desenvolvimento Fullstack** e explorar **projetos de Inteligência Artificial** (Python, ML), focando em sistemas escaláveis e orientados a dados.
-* 🧘‍♂️ Valorizo uma **vida equilibrada** e a entrega de **soluções práticas e eficazes** para o mundo real.
+Olá! Sou o **Gaspar Dias**, um **Técnico de Gestão de Sistemas Informáticos** e **Programador Júnior** apaixonado por construir soluções web. Especializado em **desenvolvimento Frontend** com **React** e **TypeScript**, baseio-me em **Luanda, Angola**, e atuo na criação de interfaces de utilizador intuitivas e operações CRUD eficientes.
+
+Atualmente, estou a aprofundar os meus conhecimentos em **desenvolvimento Backend (Node.js, NestJS)** e a explorar o fascinante mundo da **Inteligência Artificial (Python, ML)**. O meu objetivo é transitar para projetos **Fullstack & IA** no próximo ano, focando em sistemas escaláveis e orientados a dados.
+
+Acredito na importância de um **código limpo**, na entrega de **soluções práticas** e na manutenção de uma **vida equilibrada**.
 
 ---
 
@@ -35,12 +33,31 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
+
+---
+
+## 💡 Projetos & Experiência
+
+A minha experiência é focada no **desenvolvimento Frontend**, com projetos que me permitiram aprofundar competências em **React.js** e **JavaScript puro**. Cada projeto foi uma oportunidade para construir soluções robustas e interativas:
+
+* ### **Projeto UI – Rede Social**
+    * Desenvolvi uma **interface de utilizador responsiva** e dinâmica usando **React.js** e **TailwindCSS**.
+    * Implementei funcionalidades **CRUD** (Criar, Ler, Atualizar, Eliminar) para gestão eficiente de utilizadores e publicações, otimizando a interação no lado do cliente.
+
+* ### **Gestão de Software (JavaScript Puro)**
+    * Criei módulos de software frontend com **JavaScript puro**, focados no registo e manutenção de dados, realçando a experiência do utilizador.
+    * Realizei integrações robustas com a lógica de apresentação e dados no lado do cliente, incluindo sistemas de autenticação.
+
+* ### **Outros Projetos Frontend**
+    * Desenvolvi diversas **interfaces de utilizador** e lógica de cliente utilizando **JavaScript puro** e **React**, sempre com foco em usabilidade e performance.
+    * Criação de ferramentas de gestão e demonstrações interativas que aprimoraram a minha proficiência em **manipulação de DOM, requisições assíncronas e gestão de estado no Frontend**.
+    * Colaborei ativamente em equipas ágeis, aplicando metodologias **SCRUM** e **Kanban**, e utilizei **Git/GitHub** para um controlo de versionamento eficaz.
 
 ---
 
@@ -48,24 +65,7 @@
 
 * **Técnico de Gestão de Sistemas Informáticos**
     * Instituto Politécnico Industrial de Luanda – Makarenco | **[Ano de Conclusão]**
-    * Formação técnica em gestão, operação e manutenção de sistemas informáticos.
-
----
-
-## 💡 Projetos & Experiência
-
-* **Projeto UI – Rede Social (Frontend com React.js)** (académico/pessoal)
-    * Desenvolvimento de uma **interface de utilizador responsiva** e interativa usando **React.js** e **TailwindCSS**.
-    * Implementação de funcionalidades **CRUD** (Criar, Ler, Atualizar, Eliminar) para gestão de utilizadores e publicações, otimizando a interação e persistência de dados no lado do cliente.
-
-* **Gestão de Software (Frontend com JavaScript Puro)** (académico/pessoal)
-    * Criação de módulos de software focados no **Frontend** para **registo e manutenção de dados**, com ênfase na experiência do utilizador e manipulação de dados em **JavaScript puro**.
-    * Integração robusta com a lógica de apresentação e dados no lado do cliente, incluindo sistemas de autenticação.
-
-* **Outros Projetos Frontend (JavaScript Puro/React)**
-    * Múltiplas implementações de **interfaces de utilizador e lógica de cliente** utilizando **JavaScript puro** ou **React**, com foco em usabilidade e performance.
-    * Criação de ferramentas de gestão e demonstrações interativas que aprimoraram as minhas competências em **manipulação de DOM, requisições assíncronas e gestão de estado no Frontend**.
-    * Experiência em **colaboração com equipas ágeis**, aplicando metodologias **SCRUM** e **Kanban**, e utilizando **Git/GitHub** para controlo de versionamento eficiente.
+    * Formação técnica abrangente em gestão, operação e manutenção de sistemas informáticos.
 
 ---
 
@@ -76,4 +76,6 @@
 
 ---
 
-<p align="center">“Escreve código limpo, mantém a tua mente em paz, e constrói soluções para o mundo real.”</p>
+<p align="center">
+  “Escrevo código limpo, mantenho a mente em paz e construo soluções para o mundo real.”
+</p>
