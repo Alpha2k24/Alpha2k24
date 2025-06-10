@@ -7,9 +7,9 @@
 ### 🚀 Programador Júnior
 
 <p align="center">
-  <a href="https://github.com/Alpha2k24"><img src="https://img.shields.io/badge/GitHub-@Alpha2k24-181717?logo=github&style=for-the-badge" alt="GitHub Badge"/></a>
+  <a href="https://github.com/gaspardiasdev"><img src="https://img.shields.io/badge/GitHub-@Alpha2k24-181717?logo=github&style=for-the-badge" alt="GitHub Badge"/></a>
   <a href="https://www.linkedin.com/in/gaspar-dias"><img src="https://img.shields.io/badge/LinkedIn-@gaspar-dias-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/></a>
-  <a href="mailto:gaspar.dias@example.com"><img src="https://img.shields.io/badge/Email-gaspar.dias%40example.com-D14836?logo=gmail&style=for-the-badge" alt="Email Badge"/></a>
+  <a href="mailto:gaspardias.dev@gmail.com"><img src="https://img.shields.io/badge/Email-gaspar.dias%40example.com-D14836?logo=gmail&style=for-the-badge" alt="Email Badge"/></a>
 </p>
 
 ---
