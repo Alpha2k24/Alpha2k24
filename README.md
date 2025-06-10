@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alpha2k24/Alpha2k24/main/assets/profile-banner.png" alt="Profile Banner" width="100%" />
+  # 🚀 Olá, sou Gaspar Dias!
+  ### ✨ Desenvolvedor Frontend | Explorador de Tecnologias ✨
 </p>
-
-# 👋 Olá, sou Gaspar Dias
 
 ### 🚀 Programador Júnior
 
