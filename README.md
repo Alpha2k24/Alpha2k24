@@ -55,16 +55,17 @@
 
 ## 💡 Projetos & Experiência
 
-* **Projeto UI – Rede Social** (académico/pessoal)
-    * Desenvolvimento de uma interface de utilizador **responsiva** usando **React.js** e **TailwindCSS**.
-    * Implementação de funcionalidades **CRUD** (Criar, Ler, Atualizar, Eliminar) para gestão de utilizadores e publicações, otimizando a interação e persistência de dados.
+* **Projeto UI – Rede Social (Frontend com React.js)** (académico/pessoal)
+    * Desenvolvimento de uma **interface de utilizador responsiva** e interativa usando **React.js** e **TailwindCSS**.
+    * Implementação de funcionalidades **CRUD** (Criar, Ler, Atualizar, Eliminar) para gestão de utilizadores e publicações, otimizando a interação e persistência de dados no lado do cliente.
 
-* **Gestão de Software** (académico/pessoal)
-    * Criação de módulos de software para **registo e manutenção de dados**, com foco em eficiência e integridade.
-    * Integração robusta com **bases de dados MySQL** e desenvolvimento de sistemas de **autenticação** seguros.
+* **Gestão de Software (Frontend com JavaScript Puro)** (académico/pessoal)
+    * Criação de módulos de software focados no **Frontend** para **registo e manutenção de dados**, com ênfase na experiência do utilizador e manipulação de dados em **JavaScript puro**.
+    * Integração robusta com a lógica de apresentação e dados no lado do cliente, incluindo sistemas de autenticação.
 
-* **Outros Projetos (CRUD, Ferramentas de Gestão)**
-    * Múltiplas implementações de **back-end** com lógica de negócio, definição de rotas e integração com bases de dados.
+* **Outros Projetos Frontend (JavaScript Puro/React)**
+    * Múltiplas implementações de **interfaces de utilizador e lógica de cliente** utilizando **JavaScript puro** ou **React**, com foco em usabilidade e performance.
+    * Criação de ferramentas de gestão e demonstrações interativas que aprimoraram as minhas competências em **manipulação de DOM, requisições assíncronas e gestão de estado no Frontend**.
     * Experiência em **colaboração com equipas ágeis**, aplicando metodologias **SCRUM** e **Kanban**, e utilizando **Git/GitHub** para controlo de versionamento eficiente.
 
 ---
